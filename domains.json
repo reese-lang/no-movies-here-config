@@ -1,7 +1,6 @@
 {
-  "version": 1,
+  "version": 2,
   "domains": [
-    "https://www.wikipedia.org/",
-    "https://en.wikipedia.org/"
+    "https://www.w3schools.com/"
   ]
 }
